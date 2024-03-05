@@ -1,4 +1,4 @@
-#資料庫使用mysql，username、password使用建DB時設定的username跟password
+#資料庫使用mysql，username、password使用建DB時設定的username跟password  
 #sql指令
 
 #myjdbc1  
